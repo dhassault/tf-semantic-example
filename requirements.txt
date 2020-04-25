@@ -1,0 +1,5 @@
+tensorflow-gpu
+tensorflow-addons
+tqdm
+jupyterlab
+matplotlib
